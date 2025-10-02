@@ -1,1 +1,1 @@
-# Repeated-String-algo
+# Repeated-String-algo The function calculates how many times the string s fully repeats in the first n characters and counts the number of 'a' characters in these full repeats. Then it adds any 'a' characters in the remaining partial repeat to get the total count.
